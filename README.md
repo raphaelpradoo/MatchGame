@@ -1,7 +1,5 @@
 # 🧠 Jogo de Memória com Temporizador – Use a Cabeça! C#
 
-![Capa do Livro Use a Cabeça C#](https://m.media-amazon.com/images/I/71n2G1l0rXL.jpg)
-
 ## 📖 Sobre o Projeto
 
 Este projeto consiste em um **Jogo de Memória** desenvolvido como parte dos estudos do livro **Use a Cabeça! C#**, de **Andrew Stellman** e **Jennifer Greene**.
@@ -51,3 +49,28 @@ Este projeto tem caráter **educacional** e foi desenvolvido para praticar conce
  ┃ ┣ 📜 MainWindow.xaml.cs 
  ┣ 📜 MatchGame.sln
  ┗ 📜 README.md
+
+## ▶️ Como Executar
+
+Clone o repositório:
+git clone https://github.com/raphaelpradoo/MatchGame
+Abra o arquivo .sln no Visual Studio
+
+
+## 📚 Referência
+
+Livro: Use a Cabeça! C#
+Autores: Andrew Stellman, Jennifer Greene
+Editora: Alta Books / O’Reilly
+Este projeto segue a proposta apresentada no livro, com possíveis adaptações para melhor organização e entendimento do código.
+
+
+## 📌 Status do Projeto
+
+✅ Em desenvolvimento
+
+
+## ✍️ Autor
+
+Desenvolvido por **Raphael Souza Prado**
+Projeto educacional baseado no livro Use a Cabeça! C#
