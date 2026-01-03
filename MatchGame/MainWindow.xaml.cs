@@ -16,12 +16,18 @@ namespace MatchGame
     /// </summary>
     public partial class MainWindow : Window
     {
+        #region Atributos
+        TextBlock lastTextBlockClicked;
+        bool findingMatch = false;
+        #endregion
+
         public MainWindow()
         {
             InitializeComponent();
             SetUpGame();
         }
 
+        #region Métodos
         private void SetUpGame()
         {
             List<string> animalEmoji = new List<string>()
@@ -46,5 +52,32 @@ namespace MatchGame
                 animalEmoji.RemoveAt(index);
             }
         }
+        #endregion
+
+        #region Eventos
+
+        private void TextBlock_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            TextBlock textBlock = sender as TextBlock;
+
+            if (findingMatch == false)
+            {
+                textBlock.Visibility = Visibility.Hidden;
+                lastTextBlockClicked = textBlock;
+                findingMatch = true;
+            }
+            else if (textBlock.Text == lastTextBlockClicked.Text) 
+            {
+                textBlock.Visibility = Visibility.Hidden;
+                findingMatch = false;
+            }
+            else
+            {
+                lastTextBlockClicked.Visibility = Visibility.Visible;
+                findingMatch = false;
+            }
+        }
+
+        #endregion
     }
 }
