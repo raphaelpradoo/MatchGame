@@ -40,6 +40,17 @@ Este projeto tem caráter **educacional** e foi desenvolvido para praticar conce
 
 ---
 
+## 📂 Estrutura do Projeto
+```text
+📦 MatchGame  
+ ┣ 📂 MatchGame  
+ ┃ ┣ 📜 MainWindow.xaml  
+ ┃ ┣ 📜 MainWindow.xaml.cs   
+ ┣ 📜 MatchGame.sln  
+ ┗ 📜 README.md  
+```
+ ---
+
 ## ▶️ Como Executar
 
 - Clone o repositório:
