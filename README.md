@@ -50,6 +50,15 @@ Este projeto tem caráter **educacional** e foi desenvolvido para praticar conce
  ┣ 📜 MatchGame.sln
  ┗ 📜 README.md
 
+---
+
+## ▶️ Como Executar
+
+- Clonar o repositório GitHub
+- Abrir o arquivo `.sln` no Visual Studio
+- Definir o projeto como *Startup Project*
+- Executar a aplicação pressionando **F5**
+
 ## ▶️ Como Executar
 
 Clone o repositório:
@@ -74,3 +83,87 @@ Este projeto segue a proposta apresentada no livro, com possíveis adaptações 
 
 Desenvolvido por **Raphael Souza Prado**
 Projeto educacional baseado no livro Use a Cabeça! C#
+
+
+
+
+# 🧠 Jogo de Memória com Temporizador – Use a Cabeça! C#
+
+## 📖 Sobre o Projeto
+
+Projeto educacional desenvolvido durante a leitura do livro **Use a Cabeça! C#**, de **Andrew Stellman** e **Jennifer Greene**.
+
+Trata-se de um **Jogo de Memória**, no qual o usuário deve encontrar todos os pares de cartas iguais. O jogo possui um **relógio temporizador** que contabiliza, em segundos, o tempo total necessário para concluir a partida.
+
+---
+
+## 🎯 Objetivos de Aprendizado
+
+- Praticar conceitos de **Programação Orientada a Objetos**
+- Trabalhar com **eventos** e controle de estado
+- Utilizar **timers** para medição de tempo
+- Desenvolver interfaces gráficas com **XAML**
+- Integrar lógica C# com a interface visual
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- C#
+- XAML
+- .NET
+- WPF
+- Visual Studio
+
+---
+
+## 🎮 Funcionalidades
+
+- Tabuleiro com cartas embaralhadas
+- Seleção de cartas pelo usuário
+- Verificação automática de pares
+- Controle de tentativas incorretas
+- Temporizador iniciado ao começar o jogo
+- Exibição do tempo total ao finalizar a partida
+
+---
+
+## ▶️ Como Executar
+
+- Clonar o repositório GitHub
+- Abrir o arquivo `.sln` no Visual Studio
+- Definir o projeto como *Startup Project*
+- Executar a aplicação pressionando **F5**
+
+---
+
+## 📚 Referência
+
+- Livro: *Use a Cabeça! C#*
+- Autores: Andrew Stellman e Jennifer Greene
+- Editora: Alta Books / O’Reilly
+- Capítulo: Projeto do Jogo de Memória com Timer
+
+---
+
+## 📌 Status do Projeto
+
+- Projeto finalizado
+- Escopo concluído conforme proposto no livro
+- Código funcional e testado
+
+---
+
+## ✍️ Autor
+
+- Desenvolvido por **[Seu Nome]**
+- Projeto com finalidade educacional
+- Estudos baseados no livro *Use a Cabeça! C#*
+
+---
+
+## ⭐ Contribuições
+
+- Sugestões de melhoria são bem-vindas
+- Correções podem ser enviadas via *pull request*
+- Dúvidas podem ser abertas como *issue*
