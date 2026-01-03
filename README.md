@@ -59,6 +59,7 @@ git clone https://github.com/raphaelpradoo/MatchGame
 
 - Abra o arquivo .sln no Visual Studio
 
+---
 
 ## 📚 Referência
 
@@ -68,13 +69,17 @@ git clone https://github.com/raphaelpradoo/MatchGame
 
 Este projeto segue a proposta apresentada no livro, com possíveis adaptações para melhor organização e entendimento do código.
 
+---
 
 ## 📌 Status do Projeto
 
 ✅ Em desenvolvimento
 
+---
 
 ## ✍️ Autor
 
 - Desenvolvido por **Raphael Souza Prado**
 - Projeto educacional baseado no livro **Use a Cabeça! C#**
+
+---
