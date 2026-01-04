@@ -1,5 +1,7 @@
 # 🧠 Jogo de Memória – Use a Cabeça! C#
 
+![Capa do Livro Use a Cabeça C#](https://github.com/head-first-csharp/fourth-edition/blob/master/Head_First_C%23_4e_cover.png)
+
 ## 📖 Sobre o Projeto
 
 Este projeto consiste em um **Jogo de Memória** desenvolvido como parte dos estudos do livro **Use a Cabeça! C#**, de **Andrew Stellman** e **Jennifer Greene**.
