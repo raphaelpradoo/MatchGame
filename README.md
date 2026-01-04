@@ -75,7 +75,7 @@ Este projeto segue a proposta apresentada no livro, com possíveis adaptações 
 
 ## 📌 Status do Projeto
 
-✅ Em desenvolvimento
+✅ Concluído
 
 ---
 
